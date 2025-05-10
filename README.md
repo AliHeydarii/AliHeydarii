@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Ali</h1>
+<h1 align="center">Hi 👋, I'm Ali Heydari</h1>
 <h3 align="center">A passionate frontend developer from Iran</h3>
 <div align="center" width="100%"><img src="https://github.com/user-attachments/assets/27ced28c-2a3a-4045-83be-f9bfe113c40b" width="100%"/></div>
 
