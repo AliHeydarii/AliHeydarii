@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ali</h1>
-<div align="center" width="100%"><img src="https://github.com/user-attachments/assets/0877b799-c679-4959-a176-8398297a43ef" width="50%"/></div>
+<div align="center" width="100%"><img src="https://user-images.githubusercontent.com/74038190/215768924-1014d363-b416-4080-8c74-808583e81735.png" width="50%"/></div>
 <h3 align="center">A passionate frontend developer from Iran</h3>
 <div align="center" width="100%"><img src="https://github.com/user-attachments/assets/a6e3dac6-b94c-46fa-8239-d94534c8b160" width="100%"/></div>
 
