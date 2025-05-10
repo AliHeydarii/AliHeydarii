@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ali</h1>
 <h3 align="center">A passionate frontend developer from Iran</h3>
-<div align="center" width="100%"><img src="https://github.com/user-attachments/assets/6ac7bde7-8d7c-4f7c-b7b4-ec27e2d7c24f" width="100%"/></div>
+<div align="center" width="100%"><img src="https://github.com/user-attachments/assets/6ac7bde7-8d7c-4f7c-b7b4-ec27e2d7c24f" width="50%"/></div>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aliheydarii&label=Profile%20views&color=0e75b6&style=flat" alt="aliheydarii" /> </p>
 
